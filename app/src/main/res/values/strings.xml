@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ADB</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_package_details">PackageDetails</string>
+
+    <string name="disabledLabel">Disabled</string>
+    <string name="disabledInfoLabel">Disabled</string>
+    <string name="runInBackgroundLabel">Run in background</string>
+    <string name="runInBackgroundInfoLabel">Run in background</string>
+    <string name="disableWakelockLabel">Wakelocks</string>
+    <string name="disableWakelockInfoLabel">Prevents cpu from going to sleep</string>
+
+
+</resources>
